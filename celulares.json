@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "nome": "iPhone 12 64gb",
+      "preco": 3500,
+      "fabricante": "Apple",
+      "estoque": 10
+    },
+    {
+      "id": 2,
+      "nome": "Samsung Galaxy S21",
+      "preco": 3000,
+      "fabricante": "Samsung",
+      "estoque": 8
+    },
+    {
+      "id": 3,
+      "nome": "Google Pixel 6",
+      "preco": 4200,
+      "fabricante": "Google",
+      "estoque": 12
+    },
+    {
+      "id": 4,
+      "nome": "OnePlus 9 Pro",
+      "preco": 3800,
+      "fabricante": "OnePlus",
+      "estoque": 6
+    },
+    {
+      "id": 5,
+      "nome": "Xiaomi Mi 11",
+      "preco": 2800,
+      "fabricante": "Xiaomi",
+      "estoque": 15
+    },
+    {
+      "id": 6,
+      "nome": "Sony Xperia 5 III",
+      "preco": 3200,
+      "fabricante": "Sony",
+      "estoque": 9
+    },
+    {
+      "id": 7,
+      "nome": "LG Velvet",
+      "preco": 2500,
+      "fabricante": "LG",
+      "estoque": 7
+    },
+    {
+      "id": 8,
+      "nome": "Nokia 9 PureView",
+      "preco": 2200,
+      "fabricante": "Nokia",
+      "estoque": 11
+    },
+    {
+      "id": 9,
+      "nome": "Huawei P40 Pro",
+      "preco": 2900,
+      "fabricante": "Huawei",
+      "estoque": 13
+    },
+    {
+      "id": 10,
+      "nome": "Motorola Moto G Power",
+      "preco": 1800,
+      "fabricante": "Motorola",
+      "estoque": 20
+    },
+    {
+      "id": 11,
+      "nome": "ASUS ZenFone 8",
+      "preco": 2700,
+      "fabricante": "ASUS",
+      "estoque": 14
+    },
+    {
+      "id": 12,
+      "nome": "Oppo Find X3 Pro",
+      "preco": 3300,
+      "fabricante": "Oppo",
+      "estoque": 8
+    },
+    {
+      "id": 13,
+      "nome": "Lenovo Legion Phone Duel",
+      "preco": 4000,
+      "fabricante": "Lenovo",
+      "estoque": 6
+    },
+    {
+      "id": 14,
+      "nome": "ZTE Axon 30 Ultra",
+      "preco": 2600,
+      "fabricante": "ZTE",
+      "estoque": 10
+    },
+    {
+      "id": 15,
+      "nome": "BlackBerry KEY2",
+      "preco": 1700,
+      "fabricante": "BlackBerry",
+      "estoque": 8
+    },
+    {
+      "id": 16,
+      "nome": "Realme GT",
+      "preco": 2400,
+      "fabricante": "Realme",
+      "estoque": 12
+    },
+    {
+      "id": 17,
+      "nome": "Honor 50 Pro",
+      "preco": 2700,
+      "fabricante": "Honor",
+      "estoque": 9
+    },
+    {
+      "id": 18,
+      "nome": "Vivo X60 Pro+",
+      "preco": 3100,
+      "fabricante": "Vivo",
+      "estoque": 7
+    },
+    {
+      "id": 19,
+      "nome": "Poco X3 Pro",
+      "preco": 2200,
+      "fabricante": "Xiaomi",
+      "estoque": 15
+    },
+    {
+      "id": 20,
+      "nome": "OnePlus Nord 2",
+      "preco": 2800,
+      "fabricante": "OnePlus",
+      "estoque": 11
+    }
+  ]
